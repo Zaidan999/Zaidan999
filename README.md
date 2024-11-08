@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zaidan999
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science as my degree
+- 👀 I’m interested in Artificial Intelligence world
+- 🌱 I’m currently pursuing my Master's Degree in Artificial Intelligence
 - 💞️ I’m looking to collaborate on any programming project
-- 📫 You can contact me through email zaidan.mufaddhal@student.aiu.edu.my or my Whatsapp +6289628410991
+- 📫 You can contact me through email zaidan.mufaddhal@outlook.com
 
 <!---
 Zaidan999/Zaidan999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
